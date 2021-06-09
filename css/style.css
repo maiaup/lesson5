@@ -45,6 +45,8 @@ body {
 /*content*/
 
 .sect {
+	width: 1160px;
+	margin: 0 auto;
 	margin-top: 75px;
 	margin-left: 140px;
 }
@@ -53,11 +55,11 @@ body {
  	font-size: 24px;
  	font-family: 'Helvetica'; 
 }
-.conteiner-block1 {
+.conteiner-block {
 	width: 1160px;
 	margin-top: 56px;
 }
-.
+
 .left-blok {
 	display: inline-block;
 	width: 760px;
