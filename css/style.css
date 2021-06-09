@@ -47,8 +47,6 @@ body {
 .sect {
 	width: 1160px;
 	margin: 0 auto;
-	margin-top: 75px;
-	margin-left: 140px;
 }
 .h2 {
 	text-transform: uppercase;
@@ -60,14 +58,14 @@ body {
 	margin-top: 56px;
 }
 
-.left-blok {
+.left-block {
 	display: inline-block;
 	width: 760px;
 	vertical-align: top;
 	margin-right: 40px;
 
 }
-.right-blok {
+.right-block {
 	display: inline-block;
 	width: 360px;
 	vertical-align: top;
