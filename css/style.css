@@ -14,13 +14,11 @@ body {
  }
 .logo {
  	display: inline-block;
- 	margin-top: 20px;
-
  	margin-left: 20px;
  	font-size: 11px;
  	color: #FA6980;
  	text-transform: uppercase;
- 	font-family: 'Helvetica';
+ 	font-family: 'Helvetica-Bold';
  	font-weight: bold;
  }
  .nav {
@@ -30,17 +28,15 @@ body {
  .nav-li {
  	display: inline-block;
  	margin-right: 20px;
- 	
-
- 	
  	margin-left: 20px;
  	text-transform: uppercase;
- 	font-weight: bold;
+ 	
  	font-size: 11px;
- 	font-family: 'Helvetica';
+ 	font-family: 'Helvetica-Bold';
  }
  .avatar {
  	display: inline;
+ 	vertical-align: middle;
  	margin-left: 40px;
  	margin-top: 11px;
  }
@@ -87,15 +83,15 @@ body {
 	top: 28px;
 	left: 40px;
 	font-size: 16px;
-	color: #fff;
+	color: #F6F8F9;
 }
 .cont-text {
 	width: 280px;
 	height: 38px;
-	
 	margin-top: 76px;
 	margin-right: 40px;
 	margin-left: 40px;
+	margin-bottom: 40px;
 	font-size: 13px;
 	color: #A6ADB4;
  	font-family: 'Helvetica'; 
@@ -133,7 +129,16 @@ body {
 .block5,
 .block6 {
 	display: inline-block;
-	vertical-align: top;
+	
 	margin-top: 56px;
-	margin-left: 50px; 
+	margin-right: 50px;
+	vertical-align: top;
+}
+ 
+ .block1 {
+ 	margin-left: 142px;
+
+ }
+ .icon {
+ 	padding-right: 22px;
  }
