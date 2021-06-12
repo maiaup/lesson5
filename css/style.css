@@ -1,6 +1,6 @@
 body {
-	background-color: #F6F8F9;
-	padding-top: 126px;
+	background-color: #CBD0D3;
+	padding-top: 96px;
 }
 /*header*/
 .header-wrap {
@@ -30,7 +30,6 @@ body {
  	margin-right: 20px;
  	margin-left: 20px;
  	text-transform: uppercase;
- 	
  	font-size: 11px;
  	font-family: 'Helvetica-Bold';
  }
@@ -38,45 +37,39 @@ body {
  	display: inline;
  	vertical-align: middle;
  	margin-left: 40px;
- 	margin-top: 11px;
  }
-
-
-
 /*content*/
-
 .sect {
 	width: 1160px;
 	margin-left: 140px;
-	
 }
 .h2 {
 	margin-top: 25px;
-	margin-left: 140px;
-	margin-bottom: 60px;
+	
+	margin-bottom: 40px;
 	text-transform: uppercase;
  	font-size: 24px;
  	font-family: 'Helvetica'; 
-}
-.conteiner-block {
-	width: 1160px;
-	margin-top: 75px;
-	position: relative;
 }
 .conteiner-block1 {
 	display: inline-block;
 	width: 360px;
 	vertical-align: top;
+	background: #FFFFFF;
 }
 .conteiner-block2 {
 	display: inline-block;
-	vertical-align: top;
 	width: 360px;
+	vertical-align: top;
+	margin-left: 40px;
+	background: #FFFFFF;
 }
 .conteiner-block3 {
 	display: inline-block;
 	width: 360px;
 	vertical-align: top;
+	margin-left: 40px;
+	background: #FFFFFF;
 }
 .text-image {
 	position: absolute;
@@ -120,6 +113,8 @@ body {
 .footer-bg {
 	background-color: #A6ADB4;
 	width: 1440px;
+	height: 197px;
+	margin-top: 37px;
 }
 .block1,
 .block2,
@@ -128,16 +123,13 @@ body {
 .block5,
 .block6 {
 	display: inline-block;
-	
 	margin-top: 56px;
 	margin-right: 40px;
 	vertical-align: top;
 }
- 
- .block1 {
+.block1 {
  	margin-left: 142px;
-
- }
+}
  .icon {
  	padding-right: 22px;
  }
