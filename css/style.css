@@ -119,8 +119,7 @@ body {
 /*footer*/
 .footer-bg {
 	background-color: #A6ADB4;
-	padding-top: ;
-	padding-left: 
+	width: 1440px;
 }
 .block1,
 .block2,
@@ -131,7 +130,7 @@ body {
 	display: inline-block;
 	
 	margin-top: 56px;
-	margin-right: 50px;
+	margin-right: 40px;
 	vertical-align: top;
 }
  
